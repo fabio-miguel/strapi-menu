@@ -392,7 +392,6 @@ Sidebar
 }
 
 .sidebar-sublinks {
-  border: 2px dashed purple;
   display: grid;
   grid-template-columns: 1fr 1fr;
   row-gap: 0.5rem;
